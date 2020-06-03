@@ -4,7 +4,7 @@
 }
 
 .warning {
-    background-color: #da8a8a;
+    background-color: #ca3131;
 }
 
 table {
@@ -26,3 +26,7 @@ th, td {
     margin: 5px 10px;
     padding: 6px;
 }
+
+ tr:nth-child(even) {
+    background-color: rgb(72, 175, 80);
+ }
